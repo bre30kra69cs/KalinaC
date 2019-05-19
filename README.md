@@ -1,6 +1,6 @@
-# Kalina C
+# Kalina C++
 
-C implementation of Ukrain Kalina cipher.
+C++ implementation of Ukrain Kalina cipher.
 
 ## How to use?
 
